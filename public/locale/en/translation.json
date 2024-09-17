@@ -1,0 +1,648 @@
+{
+  "headerLogout": "Logout",
+  "lng": "EN",
+  "loading": "...Loading",
+  "titleDeleteAlert": "Are you sure to delete ",
+  "textDeleteAlert": "You will not be able to undo this action!",
+  "confirmButtonText": "Yes, delete it!",
+  "titleDeletedSuccess": "Deleted",
+  "textDeletedSuccess": "successfully",
+  "doneDeletedSuccess": "OK",
+  "noChange": "No Changes",
+  "emailExisted": "Email Already Existed",
+  "phoneExisted": "Phone Already Existed",
+  "cancel": "Cancel",
+  "add": "Add",
+  "edit": "Edit",
+  "save": "Save",
+  "delete": "Delete",
+  "update": "Update",
+  "pages": "Pages",
+  "content": "Content",
+  "views": "Views",
+  "visits": "Visits",
+  "favorites": "Favorites",
+  "downloads": "Downloads",
+  "shares": "Shares",
+  "chooseElder": "Choose Elder",
+  "chooseBook": "Choose Book",
+  "chooseImageBook": "Choose Image Book",
+  "chooseAudio": "Choose Audio",
+  "chooseImageAudio": "Choose Image Audio",
+  "elder": "Elder",
+  "action": "Actions",
+  "chooseImage": "Choose Image",
+  "chooseBackground": "Choose Background",
+  "status": "Status",
+  "approve": "Approve",
+  "pending": "Pending",
+  "private": "Private",
+  "public": "Public",
+  "active": "Active",
+  "inactive": "Inactive",
+  "chooseCategory": "Choose Category",
+  "columnsFilter": "Columns",
+  "send": "Send",
+  "confirm": "Confirm",
+  "doneConfirm": "Done Confirm",
+  "areYouSure": "Are you sure?",
+  "powers": "Powers",
+  "admin": "Admin",
+  "supAdmin": "Sub Admin",
+  "chooseBookMainCategory": "Choose Main Category",
+  "chooseBookSubCategory": "Choose Sub Main Category",
+  "chooseBookSubSubCategory": "Choose Sub Sub Category",
+  "search": "Search",
+  "searchSubAdmin": "Name, Email, Phone, Power or Status",
+  "searchMessage": "Name, Email or Phone",
+  "searchUser": "Name, Email, Phone, Register Method or Subscription",
+  "searchNewUser": "Name, Email, Phone, Register Method, Subscription, Activation, Email Verified or Phone Verified",
+  "searchUserCodeContent": "Name, Email, Phone or Subscription",
+  "searchUserDropDown": "Email",
+  "searchElder": "Name, Email, Phone, Category or Activation",
+  "searchAudio": " by Title, Category, Elder, Content or Activation",
+  "searchAudioMostListening": "Title, Elder, Content, Activation or Listening Count",
+  "searchArticle": "Title, Category, Writer, Content or Activation",
+  "searchBook": "Title, Main Category, Sub Category, Sub Sub Category, Content or Activation",
+  "searchImage": "Category, Content or Activation",
+  "searchSubCategoryBook": "Sub Category or Main Category",
+  "searchMainCategoryBook": "Category",
+  "searchSubSubCategoryBook": "Sub Category or Main Sub Category",
+  "searchCategoryImage": "Category Image",
+  "searchCategoryAudio": "Category Audio",
+  "searchCategoryArticle": "Category Article",
+  "viewBook": "View Book",
+  "activation": "Activation",
+  "chooseImageElder": "Choose Image Elder",
+  "chooseImageLogo": "Choose Image Logo",
+  "searchNotification": "Notification by Title",
+  "noPhone": "No Phone",
+  "noData": "No Data",
+  "show": "Show",
+  "hide": "Hide",
+  "audiosCount": "Audios",
+  "showWriter": "Status Writer",
+  "noColumns": "No Columns",
+  "networkError": "Network Error",
+  "serverError": "Server Error",
+  "someError": "Some Error",
+  "index": "Index",
+  "checkboxes": "Checkboxes",
+  "searchAudioElder": "Audio by Title, Category, Content or Activation",
+  "listening": "Listening Count",
+  "notAllowed": "You are not allowed to access this page",
+  "goBack": "Go Back to Home Page",
+  "register_method_web": "Website",
+  "register_method_app": "Mobile",
+  "auth": {
+    "login": {
+      "title": "Login to Dr.Omar Kamel",
+      "email": "email",
+      "password": "password",
+      "confirmPassword": "confirm password",
+      "submit": "Login",
+      "forgetPassword": "Forgot Password?"
+    },
+    "forgetPassword": {
+      "title": "Enter your email to reset your password",
+      "email": "email",
+      "submit": "Send"
+    }
+  },
+  "dashboard": {
+    "users": "Users",
+    "articles": "Articles",
+    "audios": "Audios",
+    "images": "Images",
+    "books": "Books",
+    "downloads": "Downloads",
+    "favorites": "Favorites",
+    "shares": "Shares",
+    "elders": "Elders",
+    "newUsers": "New Users",
+    "activeUsers": "Active Users",
+    "inactiveUsers": "Inactive Users",
+    "deletedUsers": "Deleted Users",
+    "mostListening": "Most Listening"
+  },
+  "linkItems": {
+    "home": "Home",
+    "profile": "Profile",
+    "subAdmins": "Sub Admins",
+    "settings": "Settings",
+    "settingsApp": "App Settings",
+    "prayerTime": "Prayer Time",
+    "codeContent": "Settings Private Code",
+    "introductionPage": "Introduction Page",
+    "termsAndConditions": "Terms And Conditions",
+    "links": "Links",
+    "messages": "Support",
+    "notifications": "Notifications",
+    "categories": "Categories",
+    "mainCategoriesBooks": "Main Book",
+    "subCategoriesBooks": "Main Sub Book",
+    "SubSubCategoriesBooks": "Sub Sub Book",
+    "categoriesAudio": "Audio",
+    "categoriesImage": "Image",
+    "categoriesArticle": "Article",
+    "elder": "Elders",
+    "users": "Users",
+    "books": "Books",
+    "audios": "Audios",
+    "images": "Images",
+    "articles": "Articles",
+    "mostListening": "Most Listening"
+  },
+  "profile": {
+    "name": "Name",
+    "email": "Email",
+    "phone": "Phone",
+    "changePassword": "Change Password",
+    "oldPassword": "Old Password",
+    "newPassword": "New Password",
+    "confirmPassword": "Confirm Password"
+  },
+  "subAdmin": {
+    "title": "Sub Admins",
+    "addTitle": "Add Sub Admin",
+    "editTitle": "Edit Sub Admin",
+    "columns": {
+      "image": "Image",
+      "name": "Name",
+      "email": "Email",
+      "phone": "Phone"
+    },
+    "powers": {
+      "title": "Powers",
+      "show": "Show",
+      "add": "Add",
+      "edit": "Edit",
+      "delete": "Delete",
+      "send": "Send",
+      "subAdmins": "Sub Admins",
+      "users": "Users",
+      "elders": "Elders",
+      "audios": "Audios",
+      "books": "Books",
+      "images": "Images",
+      "articles": "Articles",
+      "notifications": "Notifications",
+      "messages": "Support",
+      "settings": "Settings",
+      "codeContent": "Settings Private Code",
+      "introductionPages": "Introduction Page",
+      "termsAndConditions": "Terms And Conditions",
+      "mainCategoriesBooks": "Main Categories Books",
+      "subCategoriesBooks": "Main Sub Categories Books",
+      "subSubCategoriesBooks": "Sub Sub Categories Books",
+      "categoriesAudio": "Categories Audio",
+      "categoriesImage": "Categories Image",
+      "categoriesArticle": "Categories Article"
+    }
+  },
+  "user": {
+    "title": "Users",
+    "addTitle": "Add User",
+    "editTitle": "Edit User",
+    "favorite": "Favorite",
+    "download": "Download",
+    "favorite_data_books": "Favorite Books",
+    "favorite_data_audios": "Favorite Audios",
+    "favorite_data_articles": "Favorite Articles",
+    "favorite_data_images": "Favorite Images",
+    "favorite_data_elders": "Favorite Elders",
+    "columns": {
+      "selectAll": "Select All",
+      "id": "ID",
+      "name": "Name",
+      "email": "Email",
+      "phone": "Phone",
+      "subscription": "Subscription",
+      "created_at": "Created",
+      "login_count": "Login Count",
+      "last_login": "Last Login",
+      "register_method": "Register Method",
+      "favorite_count_books": "Books",
+      "favorite_count_audios": "Audios",
+      "favorite_count_articles": "Articles",
+      "favorite_count_images": "Images",
+      "favorite_count_elders": "Elders",
+      "download_count_books": "Books",
+      "download_count_audios": "Audios",
+      "download_count_articles": "Articles",
+      "download_count_images": "Images",
+      "download_count_elders": "Elders"
+    }
+  },
+  "message": {
+    "columns": {
+      "name": "Name",
+      "content": "Message",
+      "email": "Email",
+      "phone": "Phone",
+      "read": "Actions"
+    }
+  },
+  "notifications": {
+    "title": "Notifications",
+    "addTitle": "Send Notification",
+    "columns": {
+      "id": "ID",
+      "title": "Title",
+      "body": "Body",
+      "image": "Image",
+      "ar": {
+        "title": "Title (Arabic)",
+        "country": "Country (Arabic)",
+        "body": "Description (Arabic)"
+      },
+      "en": {
+        "title": "Title (English)",
+        "country": "Country (English)",
+        "body": "Description (English)"
+      }
+    }
+  },
+  "settings": {
+    "settingsApp": {
+      "logo": "Logo",
+      "background": "Background",
+      "elder": "Elder",
+      "image_elder": "Image Elder",
+      "image_active_private_content": "Holy Quran",
+      "activationCode": "Activation Code",
+      "code": {
+        "email": "Email",
+        "phone": "Phone"
+      },
+      "prayer": {
+        "time": "Prayer Time",
+        "adhan": "Adhan",
+        "iqama": "Iqama"
+      }
+    },
+    "codeContent": {
+      "title": "Code Content",
+      "sendTitle": "Send Code Content",
+      "addTitle": "Add Code Content",
+      "editTitle": "Edit Code Content",
+      "showTitle": "Show Code Content",
+      "sendSelectedUser": "Send To Selected Used",
+      "columns": {
+        "code": "Code",
+        "name": "Name",
+        "email": "Email",
+        "send": "Send Code"
+      }
+    },
+    "introductionPage": {
+      "addTitle": "Add Introduction Page",
+      "editTitle": "Edit Introduction Page",
+      "columns": {
+        "image": "Image",
+        "title": {
+          "title": "Title",
+          "ar": "Title (Arabic)",
+          "en": "Title (English)"
+        },
+        "description": {
+          "description": "Description",
+          "ar": "Description (Arabic)",
+          "en": "Description (English)"
+        },
+        "order": "Order"
+      }
+    },
+    "termsAndConditions": {
+      "title": "Terms And Conditions",
+      "addTitle": "Add Terms And Conditions",
+      "editTitle": "Edit Terms And Conditions",
+      "columns": {
+        "title": "Title",
+        "country": "Country",
+        "text": "Description",
+        "ar": {
+          "title": "Title (Arabic)",
+          "country": "Country (Arabic)",
+          "text": "Description (Arabic)"
+        },
+        "en": {
+          "title": "Title (English)",
+          "country": "Country (English)",
+          "text": "Description (English)"
+        }
+      }
+    },
+    "links": {
+      "contact": {
+        "title": "Contact Us",
+        "addTitle": "Add Contact",
+        "contactLinks": "Links Contact",
+        "editTitle": "Edit Contact",
+        "columns": {
+          "facebook": "Facebook",
+          "messenger": "Messenger",
+          "twitter": "Twitter",
+          "instagram": "Instagram",
+          "telegram": "Telegram",
+          "linkedin": "Linkedin",
+          "tikTok": "Tik Tok",
+          "youtube": "Youtube",
+          "whatsapp": "Whatsapp",
+          "snapchat": "Snapchat",
+          "phone": "Phone",
+          "email": "Email",
+          "address": "Address",
+          "map": "Map"
+        }
+      },
+      "appLink": {
+        "title": "App Links",
+        "addTitle": "Add App Link",
+        "editTitle": "Edit App Link",
+        "appLinks": "Links App",
+        "columns": {
+          "appStore": "App Store",
+          "playStore": "Play Store"
+        }
+      }
+    }
+  },
+  "elders": {
+    "title": "Elders",
+    "addTitle": "Add Elder",
+    "editTitle": "Edit Elder",
+    "columns": {
+      "image": "Image",
+      "name": "Elder",
+      "email": "Email",
+      "phone": "Phone"
+    }
+  },
+  "categories": {
+    "addTitle": "Add Category",
+    "editTitle": "Edit Category",
+    "columns": {
+      "category": "Category"
+    }
+  },
+  "mainCategoriesBooks": {
+    "addTitle": "Add Main Category Book",
+    "editTitle": "Edit Main Category Book",
+    "columns": {
+      "category": "Category"
+    }
+  },
+  "subCategoriesBooks": {
+    "addTitle": "Add Main For Sub Category Book",
+    "editTitle": "Edit Main For Sub Category Book",
+    "columns": {
+      "category": "Sub Category",
+      "mainCategory": "Main Category"
+    }
+  },
+  "subSubCategoriesBooks": {
+    "addTitle": "Add Sub For Sub Category Book",
+    "editTitle": "Edit Sub For Sub Category Book",
+    "columns": {
+      "category": "Sub Category",
+      "mainCategory": "Main Sub Category"
+    }
+  },
+  "books": {
+    "addTitle": "Add Book",
+    "editTitle": "Edit Book",
+    "columns": {
+      "elder": {
+        "image": "Image Elder",
+        "name": "Name Elder"
+      },
+      "book": {
+        "image": "Image Book",
+        "title": "Title Book",
+        "book": "Book",
+        "number_pages": "Number Pages",
+        "category": "Main Category",
+        "subCategory": "Sub Main Category",
+        "subSubCategory": "Sub Sub Category"
+      }
+    }
+  },
+  "audios": {
+    "title": "Audios",
+    "addTitle": "Add Audio",
+    "editTitle": "Edit Audio",
+    "columns": {
+      "elder": {
+        "image": "Image Elder",
+        "name": "Name Elder"
+      },
+      "audio": {
+        "image": "Image Audio",
+        "title": "Title Audio",
+        "audio": "Audio",
+        "audios_time": "Audio Duration",
+        "category": "Category"
+      }
+    }
+  },
+  "mostListening": {
+    "addTitle": "Add Most Listening",
+    "editTitle": "Edit Most Listening",
+    "title": "Most Listening",
+    "columns": {
+      "elder": {
+        "image": "Image Elder",
+        "name": "Name Elder"
+      },
+      "audio": {
+        "image": "Image Audio",
+        "title": "Title Audio",
+        "audio": "Audio"
+      }
+    }
+  },
+  "newUsers": {
+    "title": "New Users",
+    "columns": {
+      "id": "ID",
+      "name": "Name",
+      "email": "Email",
+      "phone": "Phone",
+      "created_at": "Created",
+      "updated_at": "Updated",
+      "email_verified_at": "Email Verified",
+      "phone_verified_at": "Phone Verified",
+      "notVerified": "Not Verified",
+      "verified": "Verified"
+    }
+  },
+  "images": {
+    "addTitle": "Add Image",
+    "editTitle": "Edit Image",
+    "columns": {
+      "image": "Image",
+      "category": "Category"
+    }
+  },
+  "articles": {
+    "title": "Articles",
+    "addTitle": "Add Article",
+    "editTitle": "Edit Article",
+    "columns": {
+      "elder": {
+        "image": "Image Elder",
+        "name": "Name Elder"
+      },
+      "writer": "Writer",
+      "image": "Image",
+      "title": "Title",
+      "article": "Article",
+      "category": "Category"
+    }
+  },
+  "toast": {
+    "login": {
+      "success": "Logged in successfully",
+      "error": "An error occurred while logging in"
+    },
+    "subAdmin": {
+      "addedSuccess": "Sub Admin added successfully",
+      "addedError": "An error occurred while adding sub admin",
+      "editedSuccess": "Sub Admin edited successfully",
+      "editedError": "An error occurred while editing sub admin",
+      "deletedSuccess": "Sub Admin deleted successfully",
+      "deletedError": "An error occurred while deleting sub admin"
+    },
+    "profile": {
+      "updatedSuccess": "Personal data updated successfully",
+      "updatedError": "An error occurred while updating personal data",
+      "passwordSuccess": "Password changed successfully",
+      "passwordError": "An error occurred while changing password"
+    },
+    "user": {
+      "deletedSuccess": "User deleted successfully",
+      "deletedError": "An error occurred while deleting user",
+      "updatedSuccess": "User updated successfully",
+      "updatedError": "An error occurred while updating user"
+    },
+    "elder": {
+      "addedSuccess": "Elder added successfully",
+      "addedError": "An error occurred while adding elder",
+      "editedSuccess": "Elder edited successfully",
+      "editedError": "An error occurred while editing elder",
+      "deletedSuccess": "Elder deleted successfully",
+      "deletedError": "An error occurred while deleting elder"
+    },
+    "article": {
+      "addedSuccess": "The article has been added successfully",
+      "addedError": "An error occurred while adding the article",
+      "editedSuccess": "The article has been edited successfully",
+      "editedError": "An error occurred while editing the article",
+      "deletedSuccess": "The article has been deleted successfully",
+      "deletedError": "An error occurred while deleting the article"
+    },
+    "audio": {
+      "addedSuccess": "Audio added successfully",
+      "addedError": "An error occurred while adding audio",
+      "editedSuccess": "Audio edited successfully",
+      "editedError": "An error occurred while editing audio",
+      "deletedSuccess": "Audio deleted successfully",
+      "deletedError": "An error occurred while deleting audio"
+    },
+    "image": {
+      "addedSuccess": "Image added successfully",
+      "addedError": "An error occurred while adding image",
+      "editedSuccess": "Image edited successfully",
+      "editedError": "An error occurred while editing image",
+      "deletedSuccess": "Image deleted successfully",
+      "deletedError": "An error occurred while deleting image"
+    },
+    "book": {
+      "addedSuccess": "Book added successfully",
+      "addedError": "An error occurred while adding book",
+      "editedSuccess": "Book edited successfully",
+      "editedError": "An error occurred while editing book",
+      "deletedSuccess": "Book deleted successfully",
+      "deletedError": "An error occurred while deleting book"
+    },
+    "category": {
+      "addedSuccess": "Category added successfully",
+      "addedError": "An error occurred while adding category",
+      "editedSuccess": "Category edited successfully",
+      "editedError": "An error occurred while editing category",
+      "deletedSuccess": "Category deleted successfully",
+      "deletedError": "An error occurred while deleting category"
+    },
+    "termsAndConditions": {
+      "addedSuccess": "Terms and Conditions added successfully",
+      "addedError": "An error occurred while adding terms and conditions",
+      "editedSuccess": "Terms and Conditions edited successfully",
+      "editedError": "An error occurred while editing terms and conditions",
+      "deletedSuccess": "Terms and Conditions deleted successfully",
+      "deletedError": "An error occurred while deleting terms and conditions"
+    },
+    "notifications": {
+      "addedSuccess": "Notification added successfully",
+      "addedError": "An error occurred while adding notification",
+      "deletedSuccess": "Notification deleted successfully",
+      "deletedError": "An error occurred while deleting notification"
+    },
+    "codeContent": {
+      "addedSuccess": "Code Content added successfully",
+      "addedError": "An error occurred while adding code content",
+      "editedSuccess": "Code Content edited successfully",
+      "editedError": "An error occurred while editing code content",
+      "deletedSuccess": "Code Content deleted successfully",
+      "deletedError": "An error occurred while deleting code content"
+    },
+    "introductionPage": {
+      "addedSuccess": "Introduction Page added successfully",
+      "addedError": "An error occurred while adding introduction page",
+      "editedSuccess": "Introduction Page edited successfully",
+      "editedError": "An error occurred while editing introduction page",
+      "deletedSuccess": "Introduction Page deleted successfully",
+      "deletedError": "An error occurred while deleting introduction page"
+    },
+    "settingsApp": {
+      "success": "App Settings updated successfully",
+      "error": "An error occurred while updating app settings"
+    }
+  },
+  "validation": {
+    "required": "This field is required",
+    "email": "Please enter a valid email",
+    "password": "Password must be at least 6 characters",
+    "confirmPassword": "Password and confirm password must be the same",
+    "phone": "Please enter a valid phone number with country code (Ex: +966000000000)",
+    "image": "Please choose an image",
+    "imageElder": "Please choose an image elder",
+    "activation": "Please Choose Activation Status",
+    "imageBook": "Please choose an image book",
+    "showWriter": "Please choose a status writer",
+    "imageAudio": "Please choose an image audio",
+    "imageArticle": "Please choose an image article",
+    "audio": "Please choose an audio",
+    "book": "Please choose a book",
+    "pages": "Please enter number of pages",
+    "article": "Please choose an article",
+    "writer": "Please enter a writer",
+    "category": "Please choose a category",
+    "elder": "Please choose an elder",
+    "title": "Please enter a title",
+    "description": "Please enter a description",
+    "order": "Please enter number of order",
+    "name": "Please enter a name",
+    "content": "Please enter a content",
+    "mainCategory": "Please choose a main category",
+    "subCategory": "Please choose a sub category",
+    "url": "Please enter a valid URL",
+    "codeContent": "Please enter a code content",
+    "code": "Please enter a right code 4 digits (Ex: 1234)",
+    "maxCharacters": "Please enter a maximum of 40 characters",
+    "powers": "Please choose a power",
+    "oldPassword": "Please enter a old password",
+    "newPassword": "Please enter a new password",
+    "status": "Please choose a status"
+  }
+}

@@ -1,0 +1,653 @@
+{
+  "headerLogout": "تسجيل الخروج",
+  "lng": "ع",
+  "loading": "...جاري الخروج",
+  "titleDeleteAlert": "هل انت متأكد من حذف ",
+  "textDeleteAlert": "لن تتمكن من التراجع عن هذا الاجراء!",
+  "confirmButtonText": "نعم, احذفه!",
+  "titleDeletedSuccess": "تم حذف",
+  "textDeletedSuccess": "بنجاح",
+  "doneDeletedSuccess": "تم",
+  "noChange": "لم يتم التغيير",
+  "emailExisted": "البريد الالكتروني موجود مسبقا",
+  "phoneExisted": "رقم الهاتف موجود مسبقا",
+  "cancel": "إلغاء",
+  "add": "إضافة",
+  "edit": "تعديل",
+  "save": "حفظ",
+  "delete": "حذف",
+  "update": "تحديث",
+  "pages": "الصفحات",
+  "content": "المحتوى",
+  "views": "المشاهدات",
+  "visits": "الزيارات",
+  "favorites": "المفضلة",
+  "downloads": "التحميلات",
+  "shares": "المشاركات",
+  "chooseElder": "اختر العالم",
+  "chooseImage": "اختر صورة",
+  "chooseBackground": "اختر خلفية",
+  "chooseBook": "اختر الكتاب",
+  "chooseImageBook": "اختر صورة الكتاب",
+  "chooseAudio": "اختر الصوتية",
+  "chooseImageAudio": "اختر صورة الصوتية",
+  "chooseCategory": "اختر تصنيف",
+  "elder": "العالم",
+  "action": "الإجراءات",
+  "send": "إرسال",
+  "confirm": "تأكيد",
+  "doneConfirm": "تم التأكيد",
+  "areYouSure": "هل أنت متأكد؟",
+  "status": "الحالة",
+  "powers": "الصلاحيات",
+  "supAdmin": "مسؤول فرعي",
+  "admin": "مسؤول رئيسي",
+  "approve": "موافقة",
+  "pending": "قيد الانتظار",
+  "private": "خاص",
+  "public": "عام",
+  "active": "مفعل",
+  "inactive": "غير مفعل",
+  "columnsFilter": "الأعمدة",
+  "audiosCount": "المقاطع",
+  "chooseBookMainCategory": "اختر تصنيف الكتاب الرئيسي",
+  "chooseBookSubCategory": "اختر تصنيف الكتاب الرئيسي للفرعي",
+  "chooseBookSubSubCategory": "اختر تصنيف الكتاب الفرعي للفرعي",
+  "search": "بحث",
+  "searchSubAdmin": "الاسم أو البريد الإلكتروني أو الهاتف أو الصلاحية أو الحالة",
+  "searchMessage": "الاسم أو البريد الإلكتروني أو الهاتف",
+  "searchUser": "الاسم أو رقم الهاتف أو البريد الإلكتروني أو طريقة التسجيل أو الاشتراك",
+  "searchNewUser": "الاسم أو رقم الهاتف أو البريد أو طريقة التسجيل أو الاشتراك أو النشاط أو تفعيل الهاتف أو تفعيل البريد",
+  "searchUserCodeContent": "الاسم أو البريد الإلكتروني أو الهاتف أو الاشتراك",
+  "searchUserDropDown": "البريد الإلكتروني",
+  "searchElder": "الاسم أو البريد الإلكتروني أو الهاتف أو النشاط أو بالحالة",
+  "searchAudio": "العنوان أو التصنيف أو العالم أو المحتوى أو النشاط",
+  "searchAudioMostListening": "العنوان أو العالم أو المحتوى أو النشاط أو عدد مرات الاستماع",
+  "searchArticle": "العنوان أو التصنيف أو الكاتب أو المحتوى أو النشاط",
+  "searchImage": "التصنيف أو بالمحتوي أو بالنشاط",
+  "searchSubCategoryBook": "التصنيف الفرعي أو الرئييسي",
+  "searchSubSubCategoryBook": "التصنيف الفرعي أو الرئييسي الفرعي",
+  "searchMainCategoryBook": "التصنيف",
+  "searchCategoryImage": "تصنيف صورة",
+  "searchCategoryAudio": "تصنيف صوتية",
+  "searchCategoryArticle": "تصنيف مقال",
+  "searchBook": "العنوان أو التصنيف الرئيسي أو الفرعي الرئيسي أو الفرعي الفرعي أو بالمحتوي أو بالنشاط",
+  "viewBook": "عرض الكتاب",
+  "activation": "النشاط",
+  "show": "إظهار",
+  "searchNotification": "العنوان",
+  "hide": "إخفاء",
+  "showWriter": "حالة الكاتب",
+  "chooseImageElder": "اختر صورة الشيخ",
+  "chooseImageLogo": "اختر صورة الشعار",
+  "noPhone": "لا يوجد هاتف",
+  "noData": "لا توجد بيانات",
+  "noColumns": "لا توجد أعمدة",
+  "networkError": "خطأ في الشبكة",
+  "serverError": "خطأ في الخادم",
+  "someError": "حدث خطأ ما",
+  "index": "الرقم",
+  "checkboxes": "الخانات",
+  "searchAudioElder": "العنوان أو التصنيف أو المحتوى أو النشاط",
+  "listening": "عدد مرات الاستماع",
+  "notAllowed": "ليس لديك الصلاحية للدخول إلى هذه الصفحة",
+  "goBack": "العودة للصفحة الرئيسية",
+  "register_method_web": "الموقع",
+  "register_method_app": "التطبيق",
+  "auth": {
+    "login": {
+      "title": "تسجيل الدخول إلى د.عمر كامل",
+      "email": "البريد الإلكتروني",
+      "password": "كلمة المرور",
+      "confirmPassword": "تأكيد كلمة المرور",
+      "submit": "تسجيل الدخول",
+      "forgetPassword": "هل نسيت كلمة المرور؟"
+    },
+    "forgetPassword": {
+      "title": "أدخل بريدك الإلكتروني لإعادة تعيين كلمة المرور الخاصة بك",
+      "email": "البريد الإلكتروني",
+      "submit": "إرسال"
+    }
+  },
+  "dashboard": {
+    "users": "المستخدمين",
+    "articles": "المقالات",
+    "audios": "الصوتيات",
+    "images": "الصور",
+    "books": "الكتب",
+    "downloads": "التحميلات",
+    "favorites": "المفضلة",
+    "shares": "المشاركات",
+    "elders": "العلماء",
+    "newUsers": "مستخدمين جدد",
+    "activeUsers": "مستخدمين نشطين",
+    "inactiveUsers": "مستخدمين غير نشطين",
+    "deletedUsers": "مستخدمين محذوفين",
+    "mostListening": "الأكثر استماعا"
+  },
+  "linkItems": {
+    "home": "الصفحة الرئيسية",
+    "profile": "الصفحة الشخصية",
+    "subAdmins": "المسؤولين الفرعيين",
+    "settings": "الإعدادات",
+    "settingsApp": "إعدادات التطبيق",
+    "prayerTime": "أوقات الصلاة",
+    "codeContent": "إعدادات المحتوي الخاص",
+    "introductionPage": "الصفحات التعريفية",
+    "termsAndConditions": "الشروط والأحكام",
+    "links": "الروابط",
+    "messages": "الدعم الفني",
+    "notifications": "الإشعارات",
+    "categories": "التصنيفات",
+    "mainCategoriesBooks": "الكتب الرئيسية",
+    "subCategoriesBooks": "الكتب الرئيسية للفرعية",
+    "subSubCategoriesBooks": "الكتب الفرعية للفرعية",
+    "categoriesAudio": "الصوتيات",
+    "categoriesImage": "الصور",
+    "categoriesArticle": "المقالات",
+    "elder": "العلماء",
+    "users": "المستخدمين",
+    "books": "الكتب",
+    "audios": "الصوتيات",
+    "images": "الصور",
+    "articles": "المقالات",
+    "mostListening": "الأكثر استماعا"
+  },
+  "profile": {
+    "name": "الاسم",
+    "email": "البريد الإلكتروني",
+    "phone": "الهاتف",
+    "changePassword": "تغيير كلمة المرور",
+    "oldPassword": "كلمة المرور القديمة",
+    "newPassword": "كلمة المرور الجديدة",
+    "confirmPassword": "تأكيد كلمة المرور"
+  },
+  "subAdmin": {
+    "title": "المسؤولين الفرعيين",
+    "addTitle": "إضافة مسؤول فرعي",
+    "editTitle": "تعديل مسؤول فرعي",
+    "columns": {
+      "image": "الصورة",
+      "name": "المسؤول",
+      "email": "البريد الإلكتروني",
+      "phone": "الهاتف"
+    },
+    "powers": {
+      "title": "الصلاحيات",
+      "show": "عرض",
+      "add": "إضافة",
+      "edit": "تعديل",
+      "delete": "حذف",
+      "send": "إرسال",
+      "subAdmins": "المسؤولين الفرعيين",
+      "users": "المستخدمين",
+      "elders": "العلماء",
+      "audios": "الصوتيات",
+      "books": "الكتب",
+      "images": "الصور",
+      "articles": "المقالات",
+      "notifications": "الإشعارات",
+      "messages": "الدعم الفني",
+      "settings": "الإعدادات",
+      "codeContent": "إعدادات المحتوي الخاص",
+      "introductionPages": "الصفحات التعريفية",
+      "termsAndConditions": "الشروط والأحكام",
+      "mainCategoriesBooks": "تصنيف الكتب الرئيسية",
+      "subCategoriesBooks": "تصنيف الكتب الرئيسية للفرعية",
+      "subSubCategoriesBooks": "تصنيف الكتب الفرعية للفرعية",
+      "categoriesAudio": "تصنيف الصوتيات",
+      "categoriesImage": "تصنيف الصور",
+      "categoriesArticle": "تصنيف المقالات"
+    }
+  },
+  "user": {
+    "title": "المستخدمين",
+    "addTitle": "إضافة مستخدم",
+    "editTitle": "تعديل مستخدم",
+    "favorite": "المفضلة",
+    "download": "التحميل",
+    "favorite_data_books": "الكتب المفضلة",
+    "favorite_data_audios": "الصوتيات المفضلة",
+    "favorite_data_articles": "المقالات المفضلة",
+    "favorite_data_images": "الصور المفضلة",
+    "favorite_data_elders": "العلماء المفضلة",
+    "columns": {
+      "selectAll": "اختيار الكل",
+      "id": "الرقم",
+      "name": "الاسم",
+      "email": "البريد الإلكتروني",
+      "phone": "الهاتف",
+      "subscription": "الاشتراك",
+      "created_at": "تاريخ الإنشاء",
+      "login_count": "عدد مرات الدخول",
+      "register_method": "طريقة التسجيل",
+      "last_login": "آخر تسجيل دخول",
+      "favorite_count_books": "الكتب",
+      "favorite_count_audios": "الصوتيات",
+      "favorite_count_articles": "المقالات",
+      "favorite_count_images": "الصور",
+      "favorite_count_elders": "العلماء",
+      "download_count_books": "الكتب",
+      "download_count_audios": "الصوتيات",
+      "download_count_articles": "المقالات",
+      "download_count_images": "الصور",
+      "download_count_elders": "العلماء"
+    }
+  },
+  "message": {
+    "columns": {
+      "name": "الاسم",
+      "content": "الرسالة",
+      "email": "البريد الإلكتروني",
+      "phone": "الهاتف",
+      "read": "الإجراءات"
+    }
+  },
+  "notifications": {
+    "title": "الإشعارات",
+    "addTitle": "إرسال إشعار",
+    "columns": {
+      "id": "الرقم",
+      "title": "العنوان",
+      "body": "الوصف",
+      "image": "الصورة",
+      "ar": {
+        "title": "العنوان (بالعربي)",
+        "country": "الدولة (بالعربي)",
+        "body": "الوصف (بالعربي)"
+      },
+      "en": {
+        "title": "العنوان (بالإنجليزية)",
+        "country": "الدولة (بالإنجليزية)",
+        "body": "الوصف (بالإنجليزية)"
+      }
+    }
+  },
+  "settings": {
+    "settingsApp": {
+      "logo": "الشعار",
+      "background": "الخلفية",
+      "elder": "الشيخ",
+      "image_elder": "صورة الشيخ",
+      "image_active_private_content": "المصحف الشريف",
+      "activationCode": "رمز التفعيل",
+      "code": {
+        "email": "البريد الإلكتروني",
+        "phone": "الهاتف"
+      },
+      "prayer": {
+        "time": "أوقات الصلاة",
+        "adhan": "الأذان",
+        "iqama": "الإقامة"
+      }
+    },
+    "codeContent": {
+      "title": "رمز المحتوى",
+      "sendTitle": "إرسال رمز المحتوى",
+      "editTitle": "تعديل رمز المحتوى",
+      "addTitle": "إضافة رمز المحتوى",
+      "showTitle": "عرض رمز المحتوى",
+      "sendSelectedUser": "إرسال إلى المحددين",
+      "columns": {
+        "name": "الاسم",
+        "code": "الرمز",
+        "email": "البريد الإلكتروني",
+        "send": "إرسال الرمز"
+      }
+    },
+    "introductionPage": {
+      "addTitle": "إضافة صفحة تعريفية",
+      "editTitle": "تعديل صفحة تعريفية",
+      "columns": {
+        "image": "الصورة",
+        "title": {
+          "title": "العنوان",
+          "ar": "العنوان (بالعربي)",
+          "en": "العنوان (بالإنجليزية)"
+        },
+        "description": {
+          "description": "الوصف",
+          "ar": "الوصف (بالعربي)",
+          "en": "الوصف (بالإنجليزية)"
+        },
+        "order": "الترتيب"
+      }
+    },
+    "termsAndConditions": {
+      "title": "الشروط والأحكام",
+      "addTitle": "إضافة الشروط والأحكام",
+      "editTitle": "تعديل شرط وحكم",
+      "columns": {
+        "title": "العنوان",
+        "country": "الدولة",
+        "text": "الوصف",
+        "ar": {
+          "title": "العنوان (بالعربي)",
+          "country": "الدولة (بالعربي)",
+          "text": "الوصف (بالعربي)"
+        },
+        "en": {
+          "title": "العنوان (بالإنجليزية)",
+          "country": "الدولة (بالإنجليزية)",
+          "text": "الوصف (بالإنجليزية)"
+        }
+      }
+    },
+    "links": {
+      "contact": {
+        "title": "تواصل معنا",
+        "addTitle": "إضافة رابط تواصل",
+        "contactLinks": "روابط التواصل",
+        "editTitle": "تعديل رابط تواصل",
+        "columns": {
+          "facebook": "فيسبوك",
+          "messenger": "مسنجر",
+          "twitter": "تويتر",
+          "instagram": "انستجرام",
+          "telegram": "تليجرام",
+          "linkedin": "لينكد إن",
+          "tikTok": "تيك توك",
+          "youtube": "يوتيوب",
+          "whatsapp": "واتساب",
+          "snapchat": "سناب شات",
+          "phone": "الهاتف",
+          "email": "البريد الإلكتروني",
+          "address": "العنوان",
+          "map": "الخريطة"
+        }
+      },
+      "appLink": {
+        "title": "روابط التطبيق",
+        "addTitle": "إضافة رابط التطبيق",
+        "editTitle": "تعديل رابط التطبيق",
+        "columns": {
+          "appStore": "آب ستور",
+          "playStore": "بلاي ستور"
+        }
+      }
+    }
+  },
+  "categories": {
+    "addTitle": "إضافة تصنيف",
+    "editTitle": "تعديل تصنيف",
+    "columns": {
+      "category": "التصنيف"
+    }
+  },
+  "mainCategoriesBooks": {
+    "addTitle": "إضافة تصنيف الكتاب الرئيسي",
+    "editTitle": "تعديل تصنيف الكتاب الرئيسي",
+    "columns": {
+      "category": "التصنيف"
+    }
+  },
+  "subCategoriesBooks": {
+    "addTitle": "إضافة تصنيف الكتاب الرئيسي للتصنيف الفرعي",
+    "editTitle": "تعديل تصنيف الكتاب الرئيسي للتصنيف الفرعي",
+    "columns": {
+      "category": "التصنيف الفرعي",
+      "mainCategory": "التصنيف الرئيسي"
+    }
+  },
+  "subSubCategoriesBooks": {
+    "addTitle": "إضافة تصنيف الكتاب الفرعي للتصنيف الفرعي",
+    "editTitle": "تعديل تصنيف الكتاب الفرعي للتصنيف الفرعي",
+    "columns": {
+      "category": "التصنيف الفرعي",
+      "mainCategory": "التصنيف الرئيسي الفرعي"
+    }
+  },
+  "elders": {
+    "title": "العلماء",
+    "addTitle": "إضافة عالم",
+    "editTitle": "تعديل عالم",
+    "columns": {
+      "image": "الصورة",
+      "name": "العالم",
+      "email": "البريد الإلكتروني",
+      "phone": "الهاتف"
+    }
+  },
+  "books": {
+    "addTitle": "إضافة كتاب",
+    "editTitle": "تعديل كتاب",
+    "columns": {
+      "elder": {
+        "image": "صورة العالم",
+        "name": "اسم العالم"
+      },
+      "book": {
+        "image": "صورة الكتاب",
+        "title": "عنوان الكتاب",
+        "book": "الكتاب",
+        "number_pages": "عدد الصفحات",
+        "category": "التصنيف الرئيسي",
+        "subCategory": " التصنيف الفرعي الرئيسي",
+        "subSubCategory": "التصنيف الفرعي الفرعي"
+      }
+    }
+  },
+  "audios": {
+    "title": "الصوتيات",
+    "addTitle": "إضافة صوتية",
+    "editTitle": "تعديل صوتية",
+    "columns": {
+      "elder": {
+        "image": "صورة العالم",
+        "name": "اسم العالم"
+      },
+      "audio": {
+        "image": "صورة الصوتية",
+        "title": "عنوان الصوتية",
+        "audio": "الصوتية",
+        "audios_time": "مدة الصوتية",
+        "category": "التصنيف"
+      }
+    }
+  },
+  "mostListening": {
+    "addTitle": "إضافة الأكثر استماعا",
+    "editTitle": "تعديل الأكثر استماعا",
+    "title": "الأكثر استماعا",
+    "columns": {
+      "elder": {
+        "image": "صورة العالم",
+        "name": "اسم العالم"
+      },
+      "audio": {
+        "image": "صورة الصوتية",
+        "title": "عنوان الصوتية",
+        "audio": "الصوتية"
+      }
+    }
+  },
+  "newUsers": {
+    "addTitle": "إضافة مستخدم جديد",
+    "editTitle": "تعديل مستخدم جديد",
+    "title": "المستخدمين الجدد",
+    "columns": {
+      "id": "الرقم",
+      "name": "الاسم",
+      "email": "البريد الإلكتروني",
+      "phone": "الهاتف",
+      "created_at": "تاريخ الإنشاء",
+      "updated_at": "تاريخ التحديث",
+      "email_verified_at": "تفعيل البريد الإلكتروني",
+      "phone_verified_at": "تفعيل الهاتف",
+      "notVerified": "غير مفعل",
+      "verified": "مفعل"
+    }
+  },
+  "images": {
+    "addTitle": "إضافة صورة",
+    "editTitle": "تعديل صورة",
+    "columns": {
+      "image": "الصورة",
+      "category": "التصنيف"
+    }
+  },
+  "articles": {
+    "title": "المقالات",
+    "addTitle": "إضافة مقال",
+    "editTitle": "تعديل مقال",
+    "columns": {
+      "elder": {
+        "image": "صورة العالم",
+        "name": "اسم العالم"
+      },
+      "writer": "الكاتب",
+      "image": "الصورة",
+      "title": "العنوان",
+      "article": "المقال",
+      "category": "التصنيف"
+    }
+  },
+  "toast": {
+    "login": {
+      "success": "تم تسجيل الدخول بنجاح",
+      "error": "حدث خطأ أثناء تسجيل الدخول"
+    },
+    "subAdmin": {
+      "addedSuccess": "تم إضافة المسؤول الفرعي بنجاح",
+      "addedError": "حدث خطأ أثناء إضافة المسؤول الفرعي",
+      "updatedSuccess": "تم تعديل المسؤول الفرعي بنجاح",
+      "updatedError": "حدث خطأ أثناء تعديل المسؤول الفرعي",
+      "deletedSuccess": "تم حذف المسؤول الفرعي بنجاح",
+      "deletedError": "حدث خطأ أثناء حذف المسؤول الفرعي"
+    },
+    "profile": {
+      "updatedSuccess": "تم تعديل البيانات الشخصية بنجاح",
+      "updatedError": "حدث خطأ أثناء تعديل البيانات الشخصية",
+      "passwordSuccess": "تم تغيير كلمة المرور بنجاح",
+      "passwordError": "حدث خطأ أثناء تغيير كلمة المرور"
+    },
+    "user": {
+      "addedSuccess": "تم إضافة المستخدم بنجاح",
+      "addedError": "حدث خطأ أثناء إضافة المستخدم",
+      "updatedSuccess": "تم تعديل المستخدم بنجاح",
+      "updatedError": "حدث خطأ أثناء تعديل المستخدم",
+      "deletedSuccess": "تم حذف المستخدم بنجاح",
+      "deletedError": "حدث خطأ أثناء حذف المستخدم"
+    },
+    "elder": {
+      "addedSuccess": "تم إضافة العالم بنجاح",
+      "addedError": "حدث خطأ أثناء إضافة العالم",
+      "updatedSuccess": "تم تعديل العالم بنجاح",
+      "updatedError": "حدث خطأ أثناء تعديل العالم",
+      "deletedSuccess": "تم حذف العالم بنجاح",
+      "deletedError": "حدث خطأ أثناء حذف العالم"
+    },
+    "article": {
+      "addedSuccess": "تم إضافة المقال بنجاح",
+      "addedError": "حدث خطأ أثناء إضافة المقال",
+      "updatedSuccess": "تم تعديل المقال بنجاح",
+      "updatedError": "حدث خطأ أثناء تعديل المقال",
+      "deletedSuccess": "تم حذف المقال بنجاح",
+      "deletedError": "حدث خطأ أثناء حذف المقال"
+    },
+    "audio": {
+      "addedSuccess": "تم إضافة الصوتية بنجاح",
+      "addedError": "حدث خطأ أثناء إضافة الصوتية",
+      "updatedSuccess": "تم تعديل الصوتية بنجاح",
+      "updatedError": "حدث خطأ أثناء تعديل الصوتية",
+      "deletedSuccess": "تم حذف الصوتية بنجاح",
+      "deletedError": "حدث خطأ أثناء حذف الصوتية"
+    },
+    "image": {
+      "addedSuccess": "تم إضافة الصورة بنجاح",
+      "addedError": "حدث خطأ أثناء إضافة الصورة",
+      "updatedSuccess": "تم تعديل الصورة بنجاح",
+      "updatedError": "حدث خطأ أثناء تعديل الصورة",
+      "deletedSuccess": "تم حذف الصورة بنجاح",
+      "deletedError": "حدث خطأ أثناء حذف الصورة"
+    },
+    "book": {
+      "addedSuccess": "تم إضافة الكتاب بنجاح",
+      "addedError": "حدث خطأ أثناء إضافة الكتاب",
+      "updatedSuccess": "تم تعديل الكتاب بنجاح",
+      "updatedError": "حدث خطأ أثناء تعديل الكتاب",
+      "deletedSuccess": "تم حذف الكتاب بنجاح",
+      "deletedError": "حدث خطأ أثناء حذف الكتاب"
+    },
+    "category": {
+      "addedSuccess": "تم إضافة التصنيف بنجاح",
+      "addedError": "حدث خطأ أثناء إضافة التصنيف",
+      "updatedSuccess": "تم تعديل التصنيف بنجاح",
+      "updatedError": "حدث خطأ أثناء تعديل التصنيف",
+      "deletedSuccess": "تم حذف التصنيف بنجاح",
+      "deletedError": "حدث خطأ أثناء حذف التصنيف"
+    },
+    "termsAndConditions": {
+      "addedSuccess": "تم إضافة الشروط والأحكام بنجاح",
+      "addedError": "حدث خطأ أثناء إضافة الشروط والأحكام",
+      "updatedSuccess": "تم تعديل الشروط والأحكام بنجاح",
+      "updatedError": "حدث خطأ أثناء تعديل الشروط والأحكام",
+      "deletedSuccess": "تم حذف الشروط والأحكام بنجاح",
+      "deletedError": "حدث خطأ أثناء حذف الشروط والأحكام"
+    },
+    "notifications": {
+      "addedSuccess": "تم إرسال الإشعار بنجاح",
+      "addedError": "حدث خطأ أثناء إرسال الإشعار",
+      "updatedSuccess": "تم تعديل الإشعار بنجاح",
+      "updatedError": "حدث خطأ أثناء تعديل الإشعار",
+      "deletedSuccess": "تم حذف الإشعار بنجاح",
+      "deletedError": "حدث خطأ أثناء حذف الإشعار"
+    },
+    "codeContent": {
+      "addedSuccess": "تم إضافة رمز المحتوى بنجاح",
+      "addedError": "حدث خطأ أثناء إضافة رمز المحتوى",
+      "updatedSuccess": "تم تعديل رمز المحتوى بنجاح",
+      "updatedError": "حدث خطأ أثناء تعديل رمز المحتوى",
+      "deletedSuccess": "تم حذف رمز المحتوى بنجاح",
+      "deletedError": "حدث خطأ أثناء حذف رمز المحتوى"
+    },
+    "introductionPage": {
+      "addedSuccess": "تم إضافة الصفحة التعريفية بنجاح",
+      "addedError": "حدث خطأ أثناء إضافة الصفحة التعريفية",
+      "updatedSuccess": "تم تعديل الصفحة التعريفية بنجاح",
+      "updatedError": "حدث خطأ أثناء تعديل الصفحة التعريفية",
+      "deletedSuccess": "تم حذف الصفحة التعريفية بنجاح",
+      "deletedError": "حدث خطأ أثناء حذف الصفحة التعريفية"
+    },
+    "settingsApp": {
+      "success": "تم تعديل إعدادات التطبيق بنجاح",
+      "error": "حدث خطأ أثناء تعديل إعدادات التطبيق"
+    }
+  },
+  "validation": {
+    "required": "هذا الحقل مطلوب",
+    "email": "الرجاء إدخال بريد إلكتروني صحيح",
+    "password": "كلمة المرور يجب أن تحتوي على 8 أحرف على الأقل",
+    "confirmPassword": "كلمة المرور غير متطابقة",
+    "phone": "الرجاء إدخال رقم هاتف صحيح مكون كود الدولة ورقم الهاتف (مثال: 966000000000+)",
+    "image": "الرجاء اختيار صورة",
+    "showWriter": "الرجاء اختيار حالة الكاتب",
+    "imageElder": "الرجاء اختيار صورة العالم",
+    "activation": "الرجاء اختيار حالة النشاط",
+    "imageBook": "الرجاء اختيار صورة الكتاب",
+    "imageAudio": "الرجاء اختيار صورة الصوتية",
+    "writer": "الرجاء إدخال اسم الكاتب",
+    "imageArticle": "الرجاء اختيار صورة المقال",
+    "audio": "الرجاء اختيار صوتية",
+    "book": "الرجاء اختيار كتاب",
+    "article": "الرجاء اختيار مقال",
+    "category": "الرجاء اختيار تصنيف",
+    "elder": "الرجاء اختيار عالم",
+    "pages": "الرجاء إدخال عدد الصفحات",
+    "title": "الرجاء إدخال عنوان",
+    "description": "الرجاء إدخال وصف",
+    "order": "الرجاء إدخال رقم الترتيب",
+    "name": "الرجاء إدخال اسم",
+    "content": "الرجاء إدخال محتوى",
+    "mainCategory": "الرجاء اختيار تصنيف رئيسي",
+    "subCategory": "الرجاء اختيار تصنيف فرعي",
+    "url": "الرجاء إدخال رابط",
+    "codeContent": "الرجاء إدخال رمز المحتوى",
+    "code": "الرجاء إدخال رمز صحيح (مثال: 1234)",
+    "maxCharacters": "الحد الأقصى لعدد الأحرف هو 40 حرفًا",
+    "powers": "الرجاء اختيار صلاحية",
+    "oldPassword": "الرجاء إدخال كلمة المرور القديمة",
+    "newPassword": "الرجاء إدخال كلمة المرور الجديدة",
+    "status": "الرجاء اختيار حالة"
+  }
+}
